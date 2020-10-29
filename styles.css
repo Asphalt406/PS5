@@ -1,0 +1,15 @@
+body{
+	background-image: url(PS5.jpg);
+	background-repeat: no-repeat;
+}
+h1{
+	color: #0356fc;
+	font-size: 100px;
+}
+.title{
+	display: flex;
+	justify-content: center;
+}
+#sen{
+	font-size: 45px;
+}
